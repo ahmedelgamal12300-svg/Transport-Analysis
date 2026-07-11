@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+matplotlib
+seaborn
+pyspark
+streamlit
+plotly
+moviepy
+pillow
+python-pptx
