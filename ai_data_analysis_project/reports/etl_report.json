@@ -1,0 +1,8 @@
+{
+  "engine": "pyspark",
+  "raw_rows": 5000,
+  "silver_rows": 5000,
+  "gold_rows": 3522,
+  "silver_path": "C:\\Users\\Mariam\\Downloads\\ai_data_analysis_project\\data\\silver\\transport_trips.parquet",
+  "gold_path": "C:\\Users\\Mariam\\Downloads\\ai_data_analysis_project\\data\\gold\\daily_transport_summary.parquet"
+}

@@ -1,0 +1,2082 @@
+{
+  "database": "C:\\Users\\Mariam\\Downloads\\ai_data_analysis_project\\data\\warehouse\\transport.db",
+  "queries": {
+    "daily_trip_volume": [
+      {
+        "trip_date": "2024-01-01",
+        "trip_count": 9,
+        "daily_revenue": 338.36
+      },
+      {
+        "trip_date": "2024-01-02",
+        "trip_count": 22,
+        "daily_revenue": 694.14
+      },
+      {
+        "trip_date": "2024-01-03",
+        "trip_count": 16,
+        "daily_revenue": 457.29
+      },
+      {
+        "trip_date": "2024-01-04",
+        "trip_count": 11,
+        "daily_revenue": 220.88
+      },
+      {
+        "trip_date": "2024-01-05",
+        "trip_count": 13,
+        "daily_revenue": 250.71
+      },
+      {
+        "trip_date": "2024-01-06",
+        "trip_count": 14,
+        "daily_revenue": 451.4
+      },
+      {
+        "trip_date": "2024-01-07",
+        "trip_count": 19,
+        "daily_revenue": 539.51
+      },
+      {
+        "trip_date": "2024-01-08",
+        "trip_count": 19,
+        "daily_revenue": 466.14
+      },
+      {
+        "trip_date": "2024-01-09",
+        "trip_count": 8,
+        "daily_revenue": 205.98
+      },
+      {
+        "trip_date": "2024-01-10",
+        "trip_count": 12,
+        "daily_revenue": 237.55
+      },
+      {
+        "trip_date": "2024-01-11",
+        "trip_count": 16,
+        "daily_revenue": 481.76
+      },
+      {
+        "trip_date": "2024-01-12",
+        "trip_count": 16,
+        "daily_revenue": 533.59
+      },
+      {
+        "trip_date": "2024-01-13",
+        "trip_count": 8,
+        "daily_revenue": 349.27
+      },
+      {
+        "trip_date": "2024-01-14",
+        "trip_count": 20,
+        "daily_revenue": 502.29
+      },
+      {
+        "trip_date": "2024-01-15",
+        "trip_count": 6,
+        "daily_revenue": 99.25
+      },
+      {
+        "trip_date": "2024-01-16",
+        "trip_count": 18,
+        "daily_revenue": 518.14
+      },
+      {
+        "trip_date": "2024-01-17",
+        "trip_count": 11,
+        "daily_revenue": 364.54
+      },
+      {
+        "trip_date": "2024-01-18",
+        "trip_count": 14,
+        "daily_revenue": 303.92
+      },
+      {
+        "trip_date": "2024-01-19",
+        "trip_count": 18,
+        "daily_revenue": 539.11
+      },
+      {
+        "trip_date": "2024-01-20",
+        "trip_count": 19,
+        "daily_revenue": 585.75
+      },
+      {
+        "trip_date": "2024-01-21",
+        "trip_count": 11,
+        "daily_revenue": 294.05
+      },
+      {
+        "trip_date": "2024-01-22",
+        "trip_count": 17,
+        "daily_revenue": 536.61
+      },
+      {
+        "trip_date": "2024-01-23",
+        "trip_count": 10,
+        "daily_revenue": 274.63
+      },
+      {
+        "trip_date": "2024-01-24",
+        "trip_count": 10,
+        "daily_revenue": 346.38
+      },
+      {
+        "trip_date": "2024-01-25",
+        "trip_count": 18,
+        "daily_revenue": 715.09
+      },
+      {
+        "trip_date": "2024-01-26",
+        "trip_count": 6,
+        "daily_revenue": 117.14
+      },
+      {
+        "trip_date": "2024-01-27",
+        "trip_count": 20,
+        "daily_revenue": 705.64
+      },
+      {
+        "trip_date": "2024-01-28",
+        "trip_count": 8,
+        "daily_revenue": 263.86
+      },
+      {
+        "trip_date": "2024-01-29",
+        "trip_count": 13,
+        "daily_revenue": 281.76
+      },
+      {
+        "trip_date": "2024-01-30",
+        "trip_count": 13,
+        "daily_revenue": 468.35
+      },
+      {
+        "trip_date": "2024-01-31",
+        "trip_count": 16,
+        "daily_revenue": 474.1
+      },
+      {
+        "trip_date": "2024-02-01",
+        "trip_count": 10,
+        "daily_revenue": 224.06
+      },
+      {
+        "trip_date": "2024-02-02",
+        "trip_count": 13,
+        "daily_revenue": 299.54
+      },
+      {
+        "trip_date": "2024-02-03",
+        "trip_count": 11,
+        "daily_revenue": 285.62
+      },
+      {
+        "trip_date": "2024-02-04",
+        "trip_count": 12,
+        "daily_revenue": 339.33
+      },
+      {
+        "trip_date": "2024-02-05",
+        "trip_count": 9,
+        "daily_revenue": 240.66
+      },
+      {
+        "trip_date": "2024-02-06",
+        "trip_count": 15,
+        "daily_revenue": 407.32
+      },
+      {
+        "trip_date": "2024-02-07",
+        "trip_count": 15,
+        "daily_revenue": 407.48
+      },
+      {
+        "trip_date": "2024-02-08",
+        "trip_count": 16,
+        "daily_revenue": 501.89
+      },
+      {
+        "trip_date": "2024-02-09",
+        "trip_count": 12,
+        "daily_revenue": 261.49
+      },
+      {
+        "trip_date": "2024-02-10",
+        "trip_count": 21,
+        "daily_revenue": 703.05
+      },
+      {
+        "trip_date": "2024-02-11",
+        "trip_count": 11,
+        "daily_revenue": 424.23
+      },
+      {
+        "trip_date": "2024-02-12",
+        "trip_count": 12,
+        "daily_revenue": 281.53
+      },
+      {
+        "trip_date": "2024-02-13",
+        "trip_count": 13,
+        "daily_revenue": 258.53
+      },
+      {
+        "trip_date": "2024-02-14",
+        "trip_count": 13,
+        "daily_revenue": 379.79
+      },
+      {
+        "trip_date": "2024-02-15",
+        "trip_count": 17,
+        "daily_revenue": 337.65
+      },
+      {
+        "trip_date": "2024-02-16",
+        "trip_count": 17,
+        "daily_revenue": 424.27
+      },
+      {
+        "trip_date": "2024-02-17",
+        "trip_count": 9,
+        "daily_revenue": 182.56
+      },
+      {
+        "trip_date": "2024-02-18",
+        "trip_count": 12,
+        "daily_revenue": 304.82
+      },
+      {
+        "trip_date": "2024-02-19",
+        "trip_count": 13,
+        "daily_revenue": 364.43
+      },
+      {
+        "trip_date": "2024-02-20",
+        "trip_count": 9,
+        "daily_revenue": 131.31
+      },
+      {
+        "trip_date": "2024-02-21",
+        "trip_count": 15,
+        "daily_revenue": 296.15
+      },
+      {
+        "trip_date": "2024-02-22",
+        "trip_count": 20,
+        "daily_revenue": 412.83
+      },
+      {
+        "trip_date": "2024-02-23",
+        "trip_count": 17,
+        "daily_revenue": 466.96
+      },
+      {
+        "trip_date": "2024-02-24",
+        "trip_count": 11,
+        "daily_revenue": 266.56
+      },
+      {
+        "trip_date": "2024-02-25",
+        "trip_count": 20,
+        "daily_revenue": 568.86
+      },
+      {
+        "trip_date": "2024-02-26",
+        "trip_count": 13,
+        "daily_revenue": 306.02
+      },
+      {
+        "trip_date": "2024-02-27",
+        "trip_count": 9,
+        "daily_revenue": 281.92
+      },
+      {
+        "trip_date": "2024-02-28",
+        "trip_count": 13,
+        "daily_revenue": 356.78
+      },
+      {
+        "trip_date": "2024-02-29",
+        "trip_count": 16,
+        "daily_revenue": 432.78
+      },
+      {
+        "trip_date": "2024-03-01",
+        "trip_count": 17,
+        "daily_revenue": 510.62
+      },
+      {
+        "trip_date": "2024-03-02",
+        "trip_count": 13,
+        "daily_revenue": 275.0
+      },
+      {
+        "trip_date": "2024-03-03",
+        "trip_count": 10,
+        "daily_revenue": 252.15
+      },
+      {
+        "trip_date": "2024-03-04",
+        "trip_count": 14,
+        "daily_revenue": 403.05
+      },
+      {
+        "trip_date": "2024-03-05",
+        "trip_count": 11,
+        "daily_revenue": 410.86
+      },
+      {
+        "trip_date": "2024-03-06",
+        "trip_count": 14,
+        "daily_revenue": 339.19
+      },
+      {
+        "trip_date": "2024-03-07",
+        "trip_count": 16,
+        "daily_revenue": 544.71
+      },
+      {
+        "trip_date": "2024-03-08",
+        "trip_count": 11,
+        "daily_revenue": 317.41
+      },
+      {
+        "trip_date": "2024-03-09",
+        "trip_count": 15,
+        "daily_revenue": 405.63
+      },
+      {
+        "trip_date": "2024-03-10",
+        "trip_count": 13,
+        "daily_revenue": 355.76
+      },
+      {
+        "trip_date": "2024-03-11",
+        "trip_count": 13,
+        "daily_revenue": 372.59
+      },
+      {
+        "trip_date": "2024-03-12",
+        "trip_count": 11,
+        "daily_revenue": 500.34
+      },
+      {
+        "trip_date": "2024-03-13",
+        "trip_count": 12,
+        "daily_revenue": 418.26
+      },
+      {
+        "trip_date": "2024-03-14",
+        "trip_count": 13,
+        "daily_revenue": 404.98
+      },
+      {
+        "trip_date": "2024-03-15",
+        "trip_count": 16,
+        "daily_revenue": 379.31
+      },
+      {
+        "trip_date": "2024-03-16",
+        "trip_count": 13,
+        "daily_revenue": 384.9
+      },
+      {
+        "trip_date": "2024-03-17",
+        "trip_count": 14,
+        "daily_revenue": 447.45
+      },
+      {
+        "trip_date": "2024-03-18",
+        "trip_count": 15,
+        "daily_revenue": 394.06
+      },
+      {
+        "trip_date": "2024-03-19",
+        "trip_count": 18,
+        "daily_revenue": 440.03
+      },
+      {
+        "trip_date": "2024-03-20",
+        "trip_count": 16,
+        "daily_revenue": 438.44
+      },
+      {
+        "trip_date": "2024-03-21",
+        "trip_count": 12,
+        "daily_revenue": 269.07
+      },
+      {
+        "trip_date": "2024-03-22",
+        "trip_count": 12,
+        "daily_revenue": 375.61
+      },
+      {
+        "trip_date": "2024-03-23",
+        "trip_count": 12,
+        "daily_revenue": 298.17
+      },
+      {
+        "trip_date": "2024-03-24",
+        "trip_count": 14,
+        "daily_revenue": 457.42
+      },
+      {
+        "trip_date": "2024-03-25",
+        "trip_count": 14,
+        "daily_revenue": 450.22
+      },
+      {
+        "trip_date": "2024-03-26",
+        "trip_count": 19,
+        "daily_revenue": 628.72
+      },
+      {
+        "trip_date": "2024-03-27",
+        "trip_count": 10,
+        "daily_revenue": 241.8
+      },
+      {
+        "trip_date": "2024-03-28",
+        "trip_count": 12,
+        "daily_revenue": 475.92
+      },
+      {
+        "trip_date": "2024-03-29",
+        "trip_count": 14,
+        "daily_revenue": 443.05
+      },
+      {
+        "trip_date": "2024-03-30",
+        "trip_count": 13,
+        "daily_revenue": 372.92
+      },
+      {
+        "trip_date": "2024-03-31",
+        "trip_count": 15,
+        "daily_revenue": 524.99
+      },
+      {
+        "trip_date": "2024-04-01",
+        "trip_count": 16,
+        "daily_revenue": 463.07
+      },
+      {
+        "trip_date": "2024-04-02",
+        "trip_count": 15,
+        "daily_revenue": 346.98
+      },
+      {
+        "trip_date": "2024-04-03",
+        "trip_count": 20,
+        "daily_revenue": 496.58
+      },
+      {
+        "trip_date": "2024-04-04",
+        "trip_count": 11,
+        "daily_revenue": 236.77
+      },
+      {
+        "trip_date": "2024-04-05",
+        "trip_count": 20,
+        "daily_revenue": 560.89
+      },
+      {
+        "trip_date": "2024-04-06",
+        "trip_count": 12,
+        "daily_revenue": 294.55
+      },
+      {
+        "trip_date": "2024-04-07",
+        "trip_count": 14,
+        "daily_revenue": 255.03
+      },
+      {
+        "trip_date": "2024-04-08",
+        "trip_count": 18,
+        "daily_revenue": 524.59
+      },
+      {
+        "trip_date": "2024-04-09",
+        "trip_count": 9,
+        "daily_revenue": 264.05
+      },
+      {
+        "trip_date": "2024-04-10",
+        "trip_count": 12,
+        "daily_revenue": 364.64
+      },
+      {
+        "trip_date": "2024-04-11",
+        "trip_count": 11,
+        "daily_revenue": 290.96
+      },
+      {
+        "trip_date": "2024-04-12",
+        "trip_count": 11,
+        "daily_revenue": 244.96
+      },
+      {
+        "trip_date": "2024-04-13",
+        "trip_count": 11,
+        "daily_revenue": 203.59
+      },
+      {
+        "trip_date": "2024-04-14",
+        "trip_count": 18,
+        "daily_revenue": 508.84
+      },
+      {
+        "trip_date": "2024-04-15",
+        "trip_count": 16,
+        "daily_revenue": 374.54
+      },
+      {
+        "trip_date": "2024-04-16",
+        "trip_count": 13,
+        "daily_revenue": 265.37
+      },
+      {
+        "trip_date": "2024-04-17",
+        "trip_count": 14,
+        "daily_revenue": 404.16
+      },
+      {
+        "trip_date": "2024-04-18",
+        "trip_count": 14,
+        "daily_revenue": 521.54
+      },
+      {
+        "trip_date": "2024-04-19",
+        "trip_count": 18,
+        "daily_revenue": 574.77
+      },
+      {
+        "trip_date": "2024-04-20",
+        "trip_count": 14,
+        "daily_revenue": 559.36
+      },
+      {
+        "trip_date": "2024-04-21",
+        "trip_count": 8,
+        "daily_revenue": 236.66
+      },
+      {
+        "trip_date": "2024-04-22",
+        "trip_count": 12,
+        "daily_revenue": 316.26
+      },
+      {
+        "trip_date": "2024-04-23",
+        "trip_count": 13,
+        "daily_revenue": 371.34
+      },
+      {
+        "trip_date": "2024-04-24",
+        "trip_count": 13,
+        "daily_revenue": 338.03
+      },
+      {
+        "trip_date": "2024-04-25",
+        "trip_count": 12,
+        "daily_revenue": 259.05
+      },
+      {
+        "trip_date": "2024-04-26",
+        "trip_count": 11,
+        "daily_revenue": 302.96
+      },
+      {
+        "trip_date": "2024-04-27",
+        "trip_count": 14,
+        "daily_revenue": 453.68
+      },
+      {
+        "trip_date": "2024-04-28",
+        "trip_count": 10,
+        "daily_revenue": 257.44
+      },
+      {
+        "trip_date": "2024-04-29",
+        "trip_count": 19,
+        "daily_revenue": 410.96
+      },
+      {
+        "trip_date": "2024-04-30",
+        "trip_count": 17,
+        "daily_revenue": 496.63
+      },
+      {
+        "trip_date": "2024-05-01",
+        "trip_count": 12,
+        "daily_revenue": 340.39
+      },
+      {
+        "trip_date": "2024-05-02",
+        "trip_count": 15,
+        "daily_revenue": 410.93
+      },
+      {
+        "trip_date": "2024-05-03",
+        "trip_count": 10,
+        "daily_revenue": 300.08
+      },
+      {
+        "trip_date": "2024-05-04",
+        "trip_count": 13,
+        "daily_revenue": 286.23
+      },
+      {
+        "trip_date": "2024-05-05",
+        "trip_count": 12,
+        "daily_revenue": 320.76
+      },
+      {
+        "trip_date": "2024-05-06",
+        "trip_count": 13,
+        "daily_revenue": 482.29
+      },
+      {
+        "trip_date": "2024-05-07",
+        "trip_count": 7,
+        "daily_revenue": 168.79
+      },
+      {
+        "trip_date": "2024-05-08",
+        "trip_count": 16,
+        "daily_revenue": 476.77
+      },
+      {
+        "trip_date": "2024-05-09",
+        "trip_count": 14,
+        "daily_revenue": 395.82
+      },
+      {
+        "trip_date": "2024-05-10",
+        "trip_count": 15,
+        "daily_revenue": 326.33
+      },
+      {
+        "trip_date": "2024-05-11",
+        "trip_count": 13,
+        "daily_revenue": 426.25
+      },
+      {
+        "trip_date": "2024-05-12",
+        "trip_count": 8,
+        "daily_revenue": 163.18
+      },
+      {
+        "trip_date": "2024-05-13",
+        "trip_count": 11,
+        "daily_revenue": 350.06
+      },
+      {
+        "trip_date": "2024-05-14",
+        "trip_count": 15,
+        "daily_revenue": 621.21
+      },
+      {
+        "trip_date": "2024-05-15",
+        "trip_count": 18,
+        "daily_revenue": 515.08
+      },
+      {
+        "trip_date": "2024-05-16",
+        "trip_count": 7,
+        "daily_revenue": 169.91
+      },
+      {
+        "trip_date": "2024-05-17",
+        "trip_count": 15,
+        "daily_revenue": 511.93
+      },
+      {
+        "trip_date": "2024-05-18",
+        "trip_count": 12,
+        "daily_revenue": 406.71
+      },
+      {
+        "trip_date": "2024-05-19",
+        "trip_count": 15,
+        "daily_revenue": 510.21
+      },
+      {
+        "trip_date": "2024-05-20",
+        "trip_count": 13,
+        "daily_revenue": 297.16
+      },
+      {
+        "trip_date": "2024-05-21",
+        "trip_count": 13,
+        "daily_revenue": 338.73
+      },
+      {
+        "trip_date": "2024-05-22",
+        "trip_count": 10,
+        "daily_revenue": 331.03
+      },
+      {
+        "trip_date": "2024-05-23",
+        "trip_count": 18,
+        "daily_revenue": 750.4
+      },
+      {
+        "trip_date": "2024-05-24",
+        "trip_count": 15,
+        "daily_revenue": 497.47
+      },
+      {
+        "trip_date": "2024-05-25",
+        "trip_count": 11,
+        "daily_revenue": 304.48
+      },
+      {
+        "trip_date": "2024-05-26",
+        "trip_count": 23,
+        "daily_revenue": 640.9
+      },
+      {
+        "trip_date": "2024-05-27",
+        "trip_count": 18,
+        "daily_revenue": 410.79
+      },
+      {
+        "trip_date": "2024-05-28",
+        "trip_count": 18,
+        "daily_revenue": 497.44
+      },
+      {
+        "trip_date": "2024-05-29",
+        "trip_count": 9,
+        "daily_revenue": 222.28
+      },
+      {
+        "trip_date": "2024-05-30",
+        "trip_count": 15,
+        "daily_revenue": 379.45
+      },
+      {
+        "trip_date": "2024-05-31",
+        "trip_count": 10,
+        "daily_revenue": 265.76
+      },
+      {
+        "trip_date": "2024-06-01",
+        "trip_count": 12,
+        "daily_revenue": 318.72
+      },
+      {
+        "trip_date": "2024-06-02",
+        "trip_count": 19,
+        "daily_revenue": 470.06
+      },
+      {
+        "trip_date": "2024-06-03",
+        "trip_count": 12,
+        "daily_revenue": 327.83
+      },
+      {
+        "trip_date": "2024-06-04",
+        "trip_count": 16,
+        "daily_revenue": 356.28
+      },
+      {
+        "trip_date": "2024-06-05",
+        "trip_count": 20,
+        "daily_revenue": 508.1
+      },
+      {
+        "trip_date": "2024-06-06",
+        "trip_count": 17,
+        "daily_revenue": 482.33
+      },
+      {
+        "trip_date": "2024-06-07",
+        "trip_count": 13,
+        "daily_revenue": 330.67
+      },
+      {
+        "trip_date": "2024-06-08",
+        "trip_count": 22,
+        "daily_revenue": 536.77
+      },
+      {
+        "trip_date": "2024-06-09",
+        "trip_count": 6,
+        "daily_revenue": 177.91
+      },
+      {
+        "trip_date": "2024-06-10",
+        "trip_count": 13,
+        "daily_revenue": 431.0
+      },
+      {
+        "trip_date": "2024-06-11",
+        "trip_count": 13,
+        "daily_revenue": 511.06
+      },
+      {
+        "trip_date": "2024-06-12",
+        "trip_count": 17,
+        "daily_revenue": 560.62
+      },
+      {
+        "trip_date": "2024-06-13",
+        "trip_count": 10,
+        "daily_revenue": 246.66
+      },
+      {
+        "trip_date": "2024-06-14",
+        "trip_count": 13,
+        "daily_revenue": 338.11
+      },
+      {
+        "trip_date": "2024-06-15",
+        "trip_count": 20,
+        "daily_revenue": 535.51
+      },
+      {
+        "trip_date": "2024-06-16",
+        "trip_count": 10,
+        "daily_revenue": 293.26
+      },
+      {
+        "trip_date": "2024-06-17",
+        "trip_count": 8,
+        "daily_revenue": 162.54
+      },
+      {
+        "trip_date": "2024-06-18",
+        "trip_count": 10,
+        "daily_revenue": 286.53
+      },
+      {
+        "trip_date": "2024-06-19",
+        "trip_count": 16,
+        "daily_revenue": 388.4
+      },
+      {
+        "trip_date": "2024-06-20",
+        "trip_count": 20,
+        "daily_revenue": 701.47
+      },
+      {
+        "trip_date": "2024-06-21",
+        "trip_count": 13,
+        "daily_revenue": 249.48
+      },
+      {
+        "trip_date": "2024-06-22",
+        "trip_count": 10,
+        "daily_revenue": 191.77
+      },
+      {
+        "trip_date": "2024-06-23",
+        "trip_count": 16,
+        "daily_revenue": 453.33
+      },
+      {
+        "trip_date": "2024-06-24",
+        "trip_count": 17,
+        "daily_revenue": 513.58
+      },
+      {
+        "trip_date": "2024-06-25",
+        "trip_count": 13,
+        "daily_revenue": 230.87
+      },
+      {
+        "trip_date": "2024-06-26",
+        "trip_count": 13,
+        "daily_revenue": 446.22
+      },
+      {
+        "trip_date": "2024-06-27",
+        "trip_count": 14,
+        "daily_revenue": 419.0
+      },
+      {
+        "trip_date": "2024-06-28",
+        "trip_count": 18,
+        "daily_revenue": 418.64
+      },
+      {
+        "trip_date": "2024-06-29",
+        "trip_count": 18,
+        "daily_revenue": 304.33
+      },
+      {
+        "trip_date": "2024-06-30",
+        "trip_count": 16,
+        "daily_revenue": 452.24
+      },
+      {
+        "trip_date": "2024-07-01",
+        "trip_count": 19,
+        "daily_revenue": 647.98
+      },
+      {
+        "trip_date": "2024-07-02",
+        "trip_count": 13,
+        "daily_revenue": 439.16
+      },
+      {
+        "trip_date": "2024-07-03",
+        "trip_count": 11,
+        "daily_revenue": 367.44
+      },
+      {
+        "trip_date": "2024-07-04",
+        "trip_count": 13,
+        "daily_revenue": 267.84
+      },
+      {
+        "trip_date": "2024-07-05",
+        "trip_count": 12,
+        "daily_revenue": 330.08
+      },
+      {
+        "trip_date": "2024-07-06",
+        "trip_count": 16,
+        "daily_revenue": 381.88
+      },
+      {
+        "trip_date": "2024-07-07",
+        "trip_count": 13,
+        "daily_revenue": 357.38
+      },
+      {
+        "trip_date": "2024-07-08",
+        "trip_count": 16,
+        "daily_revenue": 378.18
+      },
+      {
+        "trip_date": "2024-07-09",
+        "trip_count": 15,
+        "daily_revenue": 400.35
+      },
+      {
+        "trip_date": "2024-07-10",
+        "trip_count": 12,
+        "daily_revenue": 289.4
+      },
+      {
+        "trip_date": "2024-07-11",
+        "trip_count": 16,
+        "daily_revenue": 400.98
+      },
+      {
+        "trip_date": "2024-07-12",
+        "trip_count": 23,
+        "daily_revenue": 696.96
+      },
+      {
+        "trip_date": "2024-07-13",
+        "trip_count": 7,
+        "daily_revenue": 268.43
+      },
+      {
+        "trip_date": "2024-07-14",
+        "trip_count": 18,
+        "daily_revenue": 449.85
+      },
+      {
+        "trip_date": "2024-07-15",
+        "trip_count": 15,
+        "daily_revenue": 511.37
+      },
+      {
+        "trip_date": "2024-07-16",
+        "trip_count": 15,
+        "daily_revenue": 465.11
+      },
+      {
+        "trip_date": "2024-07-17",
+        "trip_count": 16,
+        "daily_revenue": 406.43
+      },
+      {
+        "trip_date": "2024-07-18",
+        "trip_count": 10,
+        "daily_revenue": 267.15
+      },
+      {
+        "trip_date": "2024-07-19",
+        "trip_count": 13,
+        "daily_revenue": 337.58
+      },
+      {
+        "trip_date": "2024-07-20",
+        "trip_count": 12,
+        "daily_revenue": 278.8
+      },
+      {
+        "trip_date": "2024-07-21",
+        "trip_count": 10,
+        "daily_revenue": 287.44
+      },
+      {
+        "trip_date": "2024-07-22",
+        "trip_count": 12,
+        "daily_revenue": 293.66
+      },
+      {
+        "trip_date": "2024-07-23",
+        "trip_count": 14,
+        "daily_revenue": 384.27
+      },
+      {
+        "trip_date": "2024-07-24",
+        "trip_count": 17,
+        "daily_revenue": 563.71
+      },
+      {
+        "trip_date": "2024-07-25",
+        "trip_count": 13,
+        "daily_revenue": 402.3
+      },
+      {
+        "trip_date": "2024-07-26",
+        "trip_count": 10,
+        "daily_revenue": 250.64
+      },
+      {
+        "trip_date": "2024-07-27",
+        "trip_count": 16,
+        "daily_revenue": 413.68
+      },
+      {
+        "trip_date": "2024-07-28",
+        "trip_count": 19,
+        "daily_revenue": 492.33
+      },
+      {
+        "trip_date": "2024-07-29",
+        "trip_count": 12,
+        "daily_revenue": 400.13
+      },
+      {
+        "trip_date": "2024-07-30",
+        "trip_count": 15,
+        "daily_revenue": 492.22
+      },
+      {
+        "trip_date": "2024-07-31",
+        "trip_count": 12,
+        "daily_revenue": 450.22
+      },
+      {
+        "trip_date": "2024-08-01",
+        "trip_count": 14,
+        "daily_revenue": 514.39
+      },
+      {
+        "trip_date": "2024-08-02",
+        "trip_count": 10,
+        "daily_revenue": 249.15
+      },
+      {
+        "trip_date": "2024-08-03",
+        "trip_count": 11,
+        "daily_revenue": 403.65
+      },
+      {
+        "trip_date": "2024-08-04",
+        "trip_count": 12,
+        "daily_revenue": 303.35
+      },
+      {
+        "trip_date": "2024-08-05",
+        "trip_count": 10,
+        "daily_revenue": 265.84
+      },
+      {
+        "trip_date": "2024-08-06",
+        "trip_count": 10,
+        "daily_revenue": 297.76
+      },
+      {
+        "trip_date": "2024-08-07",
+        "trip_count": 14,
+        "daily_revenue": 445.02
+      },
+      {
+        "trip_date": "2024-08-08",
+        "trip_count": 12,
+        "daily_revenue": 295.37
+      },
+      {
+        "trip_date": "2024-08-09",
+        "trip_count": 9,
+        "daily_revenue": 179.29
+      },
+      {
+        "trip_date": "2024-08-10",
+        "trip_count": 11,
+        "daily_revenue": 315.56
+      },
+      {
+        "trip_date": "2024-08-11",
+        "trip_count": 19,
+        "daily_revenue": 623.17
+      },
+      {
+        "trip_date": "2024-08-12",
+        "trip_count": 12,
+        "daily_revenue": 253.93
+      },
+      {
+        "trip_date": "2024-08-13",
+        "trip_count": 18,
+        "daily_revenue": 504.59
+      },
+      {
+        "trip_date": "2024-08-14",
+        "trip_count": 15,
+        "daily_revenue": 384.29
+      },
+      {
+        "trip_date": "2024-08-15",
+        "trip_count": 13,
+        "daily_revenue": 448.42
+      },
+      {
+        "trip_date": "2024-08-16",
+        "trip_count": 11,
+        "daily_revenue": 412.63
+      },
+      {
+        "trip_date": "2024-08-17",
+        "trip_count": 14,
+        "daily_revenue": 313.3
+      },
+      {
+        "trip_date": "2024-08-18",
+        "trip_count": 22,
+        "daily_revenue": 604.31
+      },
+      {
+        "trip_date": "2024-08-19",
+        "trip_count": 16,
+        "daily_revenue": 496.74
+      },
+      {
+        "trip_date": "2024-08-20",
+        "trip_count": 11,
+        "daily_revenue": 274.64
+      },
+      {
+        "trip_date": "2024-08-21",
+        "trip_count": 13,
+        "daily_revenue": 294.98
+      },
+      {
+        "trip_date": "2024-08-22",
+        "trip_count": 13,
+        "daily_revenue": 326.02
+      },
+      {
+        "trip_date": "2024-08-23",
+        "trip_count": 8,
+        "daily_revenue": 298.62
+      },
+      {
+        "trip_date": "2024-08-24",
+        "trip_count": 21,
+        "daily_revenue": 404.08
+      },
+      {
+        "trip_date": "2024-08-25",
+        "trip_count": 9,
+        "daily_revenue": 192.54
+      },
+      {
+        "trip_date": "2024-08-26",
+        "trip_count": 15,
+        "daily_revenue": 421.94
+      },
+      {
+        "trip_date": "2024-08-27",
+        "trip_count": 10,
+        "daily_revenue": 382.53
+      },
+      {
+        "trip_date": "2024-08-28",
+        "trip_count": 14,
+        "daily_revenue": 316.56
+      },
+      {
+        "trip_date": "2024-08-29",
+        "trip_count": 11,
+        "daily_revenue": 262.89
+      },
+      {
+        "trip_date": "2024-08-30",
+        "trip_count": 11,
+        "daily_revenue": 338.33
+      },
+      {
+        "trip_date": "2024-08-31",
+        "trip_count": 10,
+        "daily_revenue": 252.77
+      },
+      {
+        "trip_date": "2024-09-01",
+        "trip_count": 13,
+        "daily_revenue": 392.17
+      },
+      {
+        "trip_date": "2024-09-02",
+        "trip_count": 18,
+        "daily_revenue": 592.61
+      },
+      {
+        "trip_date": "2024-09-03",
+        "trip_count": 13,
+        "daily_revenue": 373.89
+      },
+      {
+        "trip_date": "2024-09-04",
+        "trip_count": 16,
+        "daily_revenue": 392.88
+      },
+      {
+        "trip_date": "2024-09-05",
+        "trip_count": 18,
+        "daily_revenue": 534.16
+      },
+      {
+        "trip_date": "2024-09-06",
+        "trip_count": 10,
+        "daily_revenue": 204.18
+      },
+      {
+        "trip_date": "2024-09-07",
+        "trip_count": 13,
+        "daily_revenue": 389.6
+      },
+      {
+        "trip_date": "2024-09-08",
+        "trip_count": 17,
+        "daily_revenue": 549.64
+      },
+      {
+        "trip_date": "2024-09-09",
+        "trip_count": 13,
+        "daily_revenue": 261.9
+      },
+      {
+        "trip_date": "2024-09-10",
+        "trip_count": 17,
+        "daily_revenue": 566.92
+      },
+      {
+        "trip_date": "2024-09-11",
+        "trip_count": 10,
+        "daily_revenue": 262.06
+      },
+      {
+        "trip_date": "2024-09-12",
+        "trip_count": 16,
+        "daily_revenue": 435.07
+      },
+      {
+        "trip_date": "2024-09-13",
+        "trip_count": 16,
+        "daily_revenue": 568.45
+      },
+      {
+        "trip_date": "2024-09-14",
+        "trip_count": 16,
+        "daily_revenue": 398.78
+      },
+      {
+        "trip_date": "2024-09-15",
+        "trip_count": 13,
+        "daily_revenue": 452.48
+      },
+      {
+        "trip_date": "2024-09-16",
+        "trip_count": 16,
+        "daily_revenue": 485.78
+      },
+      {
+        "trip_date": "2024-09-17",
+        "trip_count": 16,
+        "daily_revenue": 468.9
+      },
+      {
+        "trip_date": "2024-09-18",
+        "trip_count": 6,
+        "daily_revenue": 287.05
+      },
+      {
+        "trip_date": "2024-09-19",
+        "trip_count": 11,
+        "daily_revenue": 346.77
+      },
+      {
+        "trip_date": "2024-09-20",
+        "trip_count": 9,
+        "daily_revenue": 262.82
+      },
+      {
+        "trip_date": "2024-09-21",
+        "trip_count": 12,
+        "daily_revenue": 352.08
+      },
+      {
+        "trip_date": "2024-09-22",
+        "trip_count": 13,
+        "daily_revenue": 360.3
+      },
+      {
+        "trip_date": "2024-09-23",
+        "trip_count": 13,
+        "daily_revenue": 327.59
+      },
+      {
+        "trip_date": "2024-09-24",
+        "trip_count": 12,
+        "daily_revenue": 356.51
+      },
+      {
+        "trip_date": "2024-09-25",
+        "trip_count": 13,
+        "daily_revenue": 321.83
+      },
+      {
+        "trip_date": "2024-09-26",
+        "trip_count": 13,
+        "daily_revenue": 388.28
+      },
+      {
+        "trip_date": "2024-09-27",
+        "trip_count": 19,
+        "daily_revenue": 603.29
+      },
+      {
+        "trip_date": "2024-09-28",
+        "trip_count": 21,
+        "daily_revenue": 524.56
+      },
+      {
+        "trip_date": "2024-09-29",
+        "trip_count": 11,
+        "daily_revenue": 237.04
+      },
+      {
+        "trip_date": "2024-09-30",
+        "trip_count": 10,
+        "daily_revenue": 313.19
+      },
+      {
+        "trip_date": "2024-10-01",
+        "trip_count": 19,
+        "daily_revenue": 584.6
+      },
+      {
+        "trip_date": "2024-10-02",
+        "trip_count": 9,
+        "daily_revenue": 248.24
+      },
+      {
+        "trip_date": "2024-10-03",
+        "trip_count": 10,
+        "daily_revenue": 293.09
+      },
+      {
+        "trip_date": "2024-10-04",
+        "trip_count": 10,
+        "daily_revenue": 242.52
+      },
+      {
+        "trip_date": "2024-10-05",
+        "trip_count": 20,
+        "daily_revenue": 460.36
+      },
+      {
+        "trip_date": "2024-10-06",
+        "trip_count": 15,
+        "daily_revenue": 454.12
+      },
+      {
+        "trip_date": "2024-10-07",
+        "trip_count": 12,
+        "daily_revenue": 436.64
+      },
+      {
+        "trip_date": "2024-10-08",
+        "trip_count": 11,
+        "daily_revenue": 311.29
+      },
+      {
+        "trip_date": "2024-10-09",
+        "trip_count": 10,
+        "daily_revenue": 261.48
+      },
+      {
+        "trip_date": "2024-10-10",
+        "trip_count": 11,
+        "daily_revenue": 313.04
+      },
+      {
+        "trip_date": "2024-10-11",
+        "trip_count": 16,
+        "daily_revenue": 444.23
+      },
+      {
+        "trip_date": "2024-10-12",
+        "trip_count": 11,
+        "daily_revenue": 349.68
+      },
+      {
+        "trip_date": "2024-10-13",
+        "trip_count": 13,
+        "daily_revenue": 379.91
+      },
+      {
+        "trip_date": "2024-10-14",
+        "trip_count": 18,
+        "daily_revenue": 608.28
+      },
+      {
+        "trip_date": "2024-10-15",
+        "trip_count": 19,
+        "daily_revenue": 672.02
+      },
+      {
+        "trip_date": "2024-10-16",
+        "trip_count": 9,
+        "daily_revenue": 309.46
+      },
+      {
+        "trip_date": "2024-10-17",
+        "trip_count": 20,
+        "daily_revenue": 715.95
+      },
+      {
+        "trip_date": "2024-10-18",
+        "trip_count": 14,
+        "daily_revenue": 325.61
+      },
+      {
+        "trip_date": "2024-10-19",
+        "trip_count": 19,
+        "daily_revenue": 547.08
+      },
+      {
+        "trip_date": "2024-10-20",
+        "trip_count": 14,
+        "daily_revenue": 390.44
+      },
+      {
+        "trip_date": "2024-10-21",
+        "trip_count": 12,
+        "daily_revenue": 223.64
+      },
+      {
+        "trip_date": "2024-10-22",
+        "trip_count": 16,
+        "daily_revenue": 479.13
+      },
+      {
+        "trip_date": "2024-10-23",
+        "trip_count": 11,
+        "daily_revenue": 289.79
+      },
+      {
+        "trip_date": "2024-10-24",
+        "trip_count": 18,
+        "daily_revenue": 441.4
+      },
+      {
+        "trip_date": "2024-10-25",
+        "trip_count": 16,
+        "daily_revenue": 444.35
+      },
+      {
+        "trip_date": "2024-10-26",
+        "trip_count": 14,
+        "daily_revenue": 439.19
+      },
+      {
+        "trip_date": "2024-10-27",
+        "trip_count": 16,
+        "daily_revenue": 416.52
+      },
+      {
+        "trip_date": "2024-10-28",
+        "trip_count": 10,
+        "daily_revenue": 356.87
+      },
+      {
+        "trip_date": "2024-10-29",
+        "trip_count": 12,
+        "daily_revenue": 326.96
+      },
+      {
+        "trip_date": "2024-10-30",
+        "trip_count": 15,
+        "daily_revenue": 665.48
+      },
+      {
+        "trip_date": "2024-10-31",
+        "trip_count": 15,
+        "daily_revenue": 440.79
+      },
+      {
+        "trip_date": "2024-11-01",
+        "trip_count": 20,
+        "daily_revenue": 548.73
+      },
+      {
+        "trip_date": "2024-11-02",
+        "trip_count": 20,
+        "daily_revenue": 612.15
+      },
+      {
+        "trip_date": "2024-11-03",
+        "trip_count": 8,
+        "daily_revenue": 288.33
+      },
+      {
+        "trip_date": "2024-11-04",
+        "trip_count": 11,
+        "daily_revenue": 347.83
+      },
+      {
+        "trip_date": "2024-11-05",
+        "trip_count": 17,
+        "daily_revenue": 543.87
+      },
+      {
+        "trip_date": "2024-11-06",
+        "trip_count": 12,
+        "daily_revenue": 310.82
+      },
+      {
+        "trip_date": "2024-11-07",
+        "trip_count": 13,
+        "daily_revenue": 284.23
+      },
+      {
+        "trip_date": "2024-11-08",
+        "trip_count": 14,
+        "daily_revenue": 361.72
+      },
+      {
+        "trip_date": "2024-11-09",
+        "trip_count": 14,
+        "daily_revenue": 397.21
+      },
+      {
+        "trip_date": "2024-11-10",
+        "trip_count": 16,
+        "daily_revenue": 362.42
+      },
+      {
+        "trip_date": "2024-11-11",
+        "trip_count": 9,
+        "daily_revenue": 192.07
+      },
+      {
+        "trip_date": "2024-11-12",
+        "trip_count": 9,
+        "daily_revenue": 244.59
+      },
+      {
+        "trip_date": "2024-11-13",
+        "trip_count": 12,
+        "daily_revenue": 336.96
+      },
+      {
+        "trip_date": "2024-11-14",
+        "trip_count": 6,
+        "daily_revenue": 114.53
+      },
+      {
+        "trip_date": "2024-11-15",
+        "trip_count": 19,
+        "daily_revenue": 435.22
+      },
+      {
+        "trip_date": "2024-11-16",
+        "trip_count": 8,
+        "daily_revenue": 380.06
+      },
+      {
+        "trip_date": "2024-11-17",
+        "trip_count": 16,
+        "daily_revenue": 477.37
+      },
+      {
+        "trip_date": "2024-11-18",
+        "trip_count": 22,
+        "daily_revenue": 590.96
+      },
+      {
+        "trip_date": "2024-11-19",
+        "trip_count": 10,
+        "daily_revenue": 295.95
+      },
+      {
+        "trip_date": "2024-11-20",
+        "trip_count": 19,
+        "daily_revenue": 629.14
+      },
+      {
+        "trip_date": "2024-11-21",
+        "trip_count": 12,
+        "daily_revenue": 277.27
+      },
+      {
+        "trip_date": "2024-11-22",
+        "trip_count": 13,
+        "daily_revenue": 406.64
+      },
+      {
+        "trip_date": "2024-11-23",
+        "trip_count": 13,
+        "daily_revenue": 403.26
+      },
+      {
+        "trip_date": "2024-11-24",
+        "trip_count": 19,
+        "daily_revenue": 555.14
+      },
+      {
+        "trip_date": "2024-11-25",
+        "trip_count": 19,
+        "daily_revenue": 533.6
+      },
+      {
+        "trip_date": "2024-11-26",
+        "trip_count": 12,
+        "daily_revenue": 242.61
+      },
+      {
+        "trip_date": "2024-11-27",
+        "trip_count": 14,
+        "daily_revenue": 343.69
+      },
+      {
+        "trip_date": "2024-11-28",
+        "trip_count": 15,
+        "daily_revenue": 312.22
+      },
+      {
+        "trip_date": "2024-11-29",
+        "trip_count": 17,
+        "daily_revenue": 438.57
+      },
+      {
+        "trip_date": "2024-11-30",
+        "trip_count": 12,
+        "daily_revenue": 319.5
+      },
+      {
+        "trip_date": "2024-12-01",
+        "trip_count": 11,
+        "daily_revenue": 346.55
+      },
+      {
+        "trip_date": "2024-12-02",
+        "trip_count": 12,
+        "daily_revenue": 360.13
+      },
+      {
+        "trip_date": "2024-12-03",
+        "trip_count": 10,
+        "daily_revenue": 383.8
+      },
+      {
+        "trip_date": "2024-12-04",
+        "trip_count": 10,
+        "daily_revenue": 355.7
+      },
+      {
+        "trip_date": "2024-12-05",
+        "trip_count": 23,
+        "daily_revenue": 841.77
+      },
+      {
+        "trip_date": "2024-12-06",
+        "trip_count": 13,
+        "daily_revenue": 358.87
+      },
+      {
+        "trip_date": "2024-12-07",
+        "trip_count": 15,
+        "daily_revenue": 372.34
+      },
+      {
+        "trip_date": "2024-12-08",
+        "trip_count": 11,
+        "daily_revenue": 204.15
+      },
+      {
+        "trip_date": "2024-12-09",
+        "trip_count": 7,
+        "daily_revenue": 140.36
+      },
+      {
+        "trip_date": "2024-12-10",
+        "trip_count": 9,
+        "daily_revenue": 290.42
+      },
+      {
+        "trip_date": "2024-12-11",
+        "trip_count": 11,
+        "daily_revenue": 366.41
+      },
+      {
+        "trip_date": "2024-12-12",
+        "trip_count": 12,
+        "daily_revenue": 244.45
+      },
+      {
+        "trip_date": "2024-12-13",
+        "trip_count": 13,
+        "daily_revenue": 481.33
+      },
+      {
+        "trip_date": "2024-12-14",
+        "trip_count": 12,
+        "daily_revenue": 428.2
+      },
+      {
+        "trip_date": "2024-12-15",
+        "trip_count": 13,
+        "daily_revenue": 404.16
+      },
+      {
+        "trip_date": "2024-12-16",
+        "trip_count": 11,
+        "daily_revenue": 349.77
+      },
+      {
+        "trip_date": "2024-12-17",
+        "trip_count": 15,
+        "daily_revenue": 407.35
+      },
+      {
+        "trip_date": "2024-12-18",
+        "trip_count": 12,
+        "daily_revenue": 264.42
+      },
+      {
+        "trip_date": "2024-12-19",
+        "trip_count": 15,
+        "daily_revenue": 468.28
+      },
+      {
+        "trip_date": "2024-12-20",
+        "trip_count": 17,
+        "daily_revenue": 427.02
+      },
+      {
+        "trip_date": "2024-12-21",
+        "trip_count": 17,
+        "daily_revenue": 436.08
+      },
+      {
+        "trip_date": "2024-12-22",
+        "trip_count": 13,
+        "daily_revenue": 316.94
+      },
+      {
+        "trip_date": "2024-12-23",
+        "trip_count": 12,
+        "daily_revenue": 270.56
+      },
+      {
+        "trip_date": "2024-12-24",
+        "trip_count": 12,
+        "daily_revenue": 294.1
+      },
+      {
+        "trip_date": "2024-12-25",
+        "trip_count": 14,
+        "daily_revenue": 340.52
+      },
+      {
+        "trip_date": "2024-12-26",
+        "trip_count": 16,
+        "daily_revenue": 406.99
+      },
+      {
+        "trip_date": "2024-12-27",
+        "trip_count": 12,
+        "daily_revenue": 310.95
+      },
+      {
+        "trip_date": "2024-12-28",
+        "trip_count": 10,
+        "daily_revenue": 310.43
+      },
+      {
+        "trip_date": "2024-12-29",
+        "trip_count": 14,
+        "daily_revenue": 236.09
+      },
+      {
+        "trip_date": "2024-12-30",
+        "trip_count": 12,
+        "daily_revenue": 327.32
+      }
+    ],
+    "avg_fare_by_zone": [
+      {
+        "zone": "Airport",
+        "avg_fare": 35.47,
+        "avg_distance_km": 10.73,
+        "trips": 758
+      },
+      {
+        "zone": "Downtown",
+        "avg_fare": 29.77,
+        "avg_distance_km": 10.9,
+        "trips": 1502
+      },
+      {
+        "zone": "Coastal",
+        "avg_fare": 28.09,
+        "avg_distance_km": 10.83,
+        "trips": 730
+      },
+      {
+        "zone": "Suburb",
+        "avg_fare": 24.48,
+        "avg_distance_km": 10.78,
+        "trips": 1270
+      },
+      {
+        "zone": "Industrial",
+        "avg_fare": 23.95,
+        "avg_distance_km": 10.82,
+        "trips": 740
+      }
+    ],
+    "delay_rate_by_traffic": [
+      {
+        "traffic_level": "High",
+        "delay_rate": 0.384,
+        "avg_delay_min": 4.77,
+        "trips": 1288
+      },
+      {
+        "traffic_level": "Medium",
+        "delay_rate": 0.296,
+        "avg_delay_min": 3.82,
+        "trips": 2216
+      },
+      {
+        "traffic_level": "Low",
+        "delay_rate": 0.257,
+        "avg_delay_min": 3.42,
+        "trips": 1496
+      }
+    ],
+    "revenue_by_vehicle_type": [
+      {
+        "vehicle_type": "Taxi",
+        "trips": 1804,
+        "total_revenue": 65181.88,
+        "avg_fare": 36.13
+      },
+      {
+        "vehicle_type": "RideShare",
+        "trips": 984,
+        "total_revenue": 38963.22,
+        "avg_fare": 39.6
+      },
+      {
+        "vehicle_type": "Bus",
+        "trips": 1245,
+        "total_revenue": 23873.74,
+        "avg_fare": 19.18
+      },
+      {
+        "vehicle_type": "Metro",
+        "trips": 967,
+        "total_revenue": 12904.43,
+        "avg_fare": 13.34
+      }
+    ],
+    "peak_hour_analysis": [
+      {
+        "pickup_hour": 0,
+        "trips": 235,
+        "avg_fare": 27.31,
+        "delay_rate": 0.315
+      },
+      {
+        "pickup_hour": 1,
+        "trips": 199,
+        "avg_fare": 28.13,
+        "delay_rate": 0.276
+      },
+      {
+        "pickup_hour": 2,
+        "trips": 233,
+        "avg_fare": 28.43,
+        "delay_rate": 0.3
+      },
+      {
+        "pickup_hour": 3,
+        "trips": 201,
+        "avg_fare": 26.64,
+        "delay_rate": 0.343
+      },
+      {
+        "pickup_hour": 4,
+        "trips": 199,
+        "avg_fare": 28.42,
+        "delay_rate": 0.372
+      },
+      {
+        "pickup_hour": 5,
+        "trips": 220,
+        "avg_fare": 28.08,
+        "delay_rate": 0.314
+      },
+      {
+        "pickup_hour": 6,
+        "trips": 206,
+        "avg_fare": 30.86,
+        "delay_rate": 0.34
+      },
+      {
+        "pickup_hour": 7,
+        "trips": 200,
+        "avg_fare": 28.13,
+        "delay_rate": 0.275
+      },
+      {
+        "pickup_hour": 8,
+        "trips": 233,
+        "avg_fare": 27.27,
+        "delay_rate": 0.309
+      },
+      {
+        "pickup_hour": 9,
+        "trips": 219,
+        "avg_fare": 26.94,
+        "delay_rate": 0.379
+      },
+      {
+        "pickup_hour": 10,
+        "trips": 184,
+        "avg_fare": 28.64,
+        "delay_rate": 0.315
+      },
+      {
+        "pickup_hour": 11,
+        "trips": 225,
+        "avg_fare": 29.41,
+        "delay_rate": 0.289
+      },
+      {
+        "pickup_hour": 12,
+        "trips": 191,
+        "avg_fare": 27.32,
+        "delay_rate": 0.272
+      },
+      {
+        "pickup_hour": 13,
+        "trips": 203,
+        "avg_fare": 28.09,
+        "delay_rate": 0.305
+      },
+      {
+        "pickup_hour": 14,
+        "trips": 228,
+        "avg_fare": 28.0,
+        "delay_rate": 0.289
+      },
+      {
+        "pickup_hour": 15,
+        "trips": 192,
+        "avg_fare": 26.19,
+        "delay_rate": 0.286
+      },
+      {
+        "pickup_hour": 16,
+        "trips": 200,
+        "avg_fare": 28.3,
+        "delay_rate": 0.35
+      },
+      {
+        "pickup_hour": 17,
+        "trips": 204,
+        "avg_fare": 27.02,
+        "delay_rate": 0.265
+      },
+      {
+        "pickup_hour": 18,
+        "trips": 207,
+        "avg_fare": 30.0,
+        "delay_rate": 0.256
+      },
+      {
+        "pickup_hour": 19,
+        "trips": 225,
+        "avg_fare": 30.8,
+        "delay_rate": 0.373
+      },
+      {
+        "pickup_hour": 20,
+        "trips": 184,
+        "avg_fare": 28.42,
+        "delay_rate": 0.288
+      },
+      {
+        "pickup_hour": 21,
+        "trips": 225,
+        "avg_fare": 28.04,
+        "delay_rate": 0.289
+      },
+      {
+        "pickup_hour": 22,
+        "trips": 173,
+        "avg_fare": 26.78,
+        "delay_rate": 0.26
+      },
+      {
+        "pickup_hour": 23,
+        "trips": 214,
+        "avg_fare": 28.75,
+        "delay_rate": 0.29
+      }
+    ],
+    "weather_impact": [
+      {
+        "weather": "Fog",
+        "trips": 511,
+        "avg_delay_min": 7.7,
+        "delay_rate": 0.781
+      },
+      {
+        "weather": "Rain",
+        "trips": 1017,
+        "avg_delay_min": 6.33,
+        "delay_rate": 0.611
+      },
+      {
+        "weather": "Clear",
+        "trips": 2699,
+        "avg_delay_min": 2.73,
+        "delay_rate": 0.15
+      },
+      {
+        "weather": "Heat",
+        "trips": 773,
+        "avg_delay_min": 2.57,
+        "delay_rate": 0.141
+      }
+    ]
+  }
+}

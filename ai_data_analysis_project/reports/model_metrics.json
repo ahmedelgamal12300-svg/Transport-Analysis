@@ -1,0 +1,8 @@
+{
+  "fare_regression_r2": 0.9805175022014868,
+  "fare_regression_mae": 1.9031349000000006,
+  "delay_classification_accuracy": 0.779,
+  "trip_clustering_silhouette": 0.3229733563788419,
+  "avg_predicted_fare": 27.782191400000002,
+  "overall_delay_rate": 0.307
+}
